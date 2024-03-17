@@ -3,8 +3,8 @@ Project Title: Hangman Was Innocent
 Description: Welcome to the classic word-guessing game of Hangman! Hangman is a simple yet addictive game where players try to guess a secret word by suggesting letters within a certain number of attempts. The game is not just about luck; it also tests your vocabulary, word recognition, and strategic thinking.
 In this digital adaptation of Hangman, players are presented with a blank word, represented by dashes indicating each letter. Your objective is to guess the letters of the word correctly before running out of attempts. With each incorrect guess, a part of the hangman's gallows is drawn, bringing you one step closer to losing the game. However, with every correct guess, the letters are revealed, helping you to uncover the mystery word.
 
-Team Members: Anchit Monga - Developer
-              Aryan Semwal - Manager 
+Team Members: Anchit Monga - Developer,
+              Aryan Semwal - Manager, 
               Bhupesh Yadav - Tester 
 
 Additional Features:
