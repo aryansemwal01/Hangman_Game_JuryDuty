@@ -12,12 +12,9 @@ TEAM MEMBERS:
 
 VERSION CONTROLE:
 * version1.py - 1st version with the feature to choose from 3 different themes to play the game in
-* version2.py - 2nd version with the feature
-* version3.py - 3rd version with the gui features using tkinter and various libraries in python
-* version4.py - 4th version with the feature of
-  
-ADDITIONAL FEATURES: 
-*
+* version2.py - Added points system and general enhancements
+* version3.py - Added a gui using tkinter library
+* version4.py - Final project complete with tkinter gui and a special interactive feature for win/lose scenario
 
 INSTRUCTIONS TO PLAY THE GAME:
 Start the game by selecting a difficulty level.
