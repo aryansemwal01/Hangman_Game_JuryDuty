@@ -10,7 +10,7 @@ TEAM MEMBERS:
               Aryan Semwal(2310991796) - Senior Project Manager, 
               Bhupesh Yadav(2310991807) - Senior Software Tester 
 
-VERSION CONTROLE:
+VERSION CONTROL:
 * version1.py - 1st version with the feature to choose from 3 different themes to play the game in
 * version2.py - Added points system and general enhancements
 * version3.py - Added a gui using tkinter library
