@@ -6,9 +6,9 @@ Welcome to the classic word-guessing game of Hangman! Hangman is a simple yet ad
 In this digital adaptation of Hangman, players are presented with a blank word, represented by dashes indicating each letter. Your objective is to guess the letters of the word correctly before running out of attempts. With each incorrect guess, a part of the hangman's gallows is drawn, bringing you one step closer to losing the game. However, with every correct guess, the letters are revealed, helping you to uncover the mystery word.
 
 TEAM MEMBERS:
-              Anchit Monga - Developer,
-              Aryan Semwal - Manager, 
-              Bhupesh Yadav - Tester 
+              Anchit Monga(2310991774) - Senior Software Developer,
+              Aryan Semwal(2310991796) - Senior Project Manager, 
+              Bhupesh Yadav(2310991807) - Senior Software Tester 
 
 VERSION CONTROLE:
 * version1.py - 1st version with the feature to choose from 3 different themes to play the game in
