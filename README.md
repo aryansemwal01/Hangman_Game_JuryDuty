@@ -7,6 +7,11 @@ Team Members: Anchit Monga - Developer,
               Aryan Semwal - Manager, 
               Bhupesh Yadav - Tester 
 
+Version Controle:
+* version1.py - 1st version with the feature to choose from 3 different themes to play the game in
+* version2.py -
+* version3.py -
+* version4.py - 
 Additional Features:
 
 Instructions to play the Game:
