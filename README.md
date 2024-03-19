@@ -1,33 +1,34 @@
-PROJECT TITLE: 
-Hangman Was Innocent
+PROJECT TITLE:  
+Hangman Game
 
 DESCRIPTION:
-Welcome to the classic word-guessing game of Hangman! Hangman is a simple yet addictive game where players try to guess a secret word by suggesting letters within a certain number of attempts. The game is not just about luck; it also tests your vocabulary, word recognition, and strategic thinking.
-In this digital adaptation of Hangman, players are presented with a blank word, represented by dashes indicating each letter. Your objective is to guess the letters of the word correctly before running out of attempts. With each incorrect guess, a part of the hangman's gallows is drawn, bringing you one step closer to losing the game. However, with every correct guess, the letters are revealed, helping you to uncover the mystery word.
+Step into the timeless word-guessing game of Hangman! Hangman is a captivating blend of skill and strategy where players endeavor to uncover a secret word within a limited number of attempts. This digital adaptation of the classic challenges your vocabulary, word recognition, and strategic thinking.
+
+In this iteration, players are greeted with a blank canvas, represented by dashes symbolizing each letter of the mystery word. Your task? Guess the letters correctly before the hangman's gallows take shape with each incorrect guess. Every accurate conjecture brings you closer to unveiling the hidden word, while each misstep adds a stroke to the hangman's portrait.
 
 TEAM MEMBERS:
-              Anchit Monga(2310991774) - Senior Software Developer
-              Aryan Semwal(2310991796) - Senior Project Manager 
-              Bhupesh Yadav(2310991807) - Senior Software Tester 
+- Anchit Monga (Senior Software Developer)
+- Aryan Semwal (Senior Project Manager)
+- Bhupesh Yadav (Senior Software Tester)
 
 VERSION CONTROL:
-* version1.py - 1st version with the feature to choose from 3 different themes to play the game in
-* version2.py - Added points system and general enhancements
-* version3.py - Added a gui using tkinter library
-* version4.py - Final project complete with tkinter gui and a special interactive feature for win/lose scenario
+- version1.py: Initial version offering a choice between 3 different themes.
+- version2.py: Introduced a points system and general enhancements.
+- version3.py: Integrated a graphical user interface (GUI) using the tkinter library.
+- version4.py: Final iteration complete with a tkinter GUI and interactive win/lose scenarios.
 
 ADDITIONAL FEATURES:
-* Points system
-* Restart button
-* The game automatically resets if the theme is changed between the game
-* Game displays the correct answer at last after the game is finished
+- Points system for scoring
+- Restart button for convenience
+- Automatic game reset upon theme change
+- Display of the correct answer after game conclusion
 
 INSTRUCTIONS TO PLAY THE GAME:
-Start the game by selecting a difficulty level.
-A hidden word will be generated, and you will be shown how many letters it contains.
-Guess one letter at a time by inputting it into the game interface.
-If the guessed letter is part of the word, it will be revealed in its correct position(s).
-If the guessed letter is not part of the word, a part of the hangman's gallows will be drawn.
-Continue guessing letters until you correctly identify the word or run out of attempts.
-Win the game by guessing the word correctly within the allotted attempts, or lose if the hangman's figure is completed before you can solve the word.
-Ready to test your word skills? LET'S PPLAY HANGMAN GAME!!
+1. A concealed word will be generated, with the number of letters indicated.
+2. Guess one letter at a time via the game interface.
+3. Correct guesses reveal letters in their respective positions.
+4. Incorrect guesses contribute to the hangman's formation.
+5. Continue guessing until you decipher the word or exhaust your attempts.
+6. Triumph by deducing the word within the allotted attempts or face defeat as the hangman's figure is completed.
+
+Ready to test your linguistic prowess? Let's embark on a round of Hangman!
