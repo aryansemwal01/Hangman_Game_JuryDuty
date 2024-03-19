@@ -22,6 +22,7 @@ ADDITIONAL FEATURES:
 - Restart button for convenience
 - Automatic game reset upon theme change
 - Display of the correct answer after game conclusion
+- Added media queries to transform according to the screen size
 
 INSTRUCTIONS TO PLAY THE GAME:
 1. A concealed word will be generated, with the number of letters indicated.
